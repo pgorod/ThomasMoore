@@ -1,7 +1,8 @@
 # Our build command includes "bundle" to make support Asciidoc format, making sure Asciidoctor gets installed:
 [build]
   publish = "public"
-  command = "bundle && hugo -v"
+#  command = "bundle && hugo -v"
+  command = "hugo -v"
 
 # The Production Context applies to the branch you have configured as main branch to deploy:
 [context.production.environment]
