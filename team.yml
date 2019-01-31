@@ -31,7 +31,7 @@ teamMember :
         url : "#"
       
   - image : images/team/team-3.jpg
-    name : Marta Lynce de Faria
+    name : Pedro Gonçalves Rodrigues
     designation : Web Developer
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
@@ -45,7 +45,7 @@ teamMember :
         url : "#"
       
   - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
+    name : Marta Lynce de Faria
     designation : SEO Specialist
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
