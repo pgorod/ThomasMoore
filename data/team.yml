@@ -3,7 +3,7 @@ heading : Our
 headingSpan : Team
 teamMember :
   - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
+    name : João Reis
     designation : CEO/Founder
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
@@ -17,7 +17,7 @@ teamMember :
         url : "#"
       
   - image : images/team/team-2.jpg
-    name : Frank Miller
+    name : Francisco Mendes Correia
     designation : Manager
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
@@ -31,7 +31,7 @@ teamMember :
         url : "#"
       
   - image : images/team/team-3.jpg
-    name : Michael Jonson
+    name : Pedro Gonçalves Rodrigues
     designation : Web Developer
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
