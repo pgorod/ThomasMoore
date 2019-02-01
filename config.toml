@@ -1,48 +1,48 @@
-baseURL = "http://example.org/"
+baseURL = "http://thomasmore.netlify.com/"
 languageCode = "en-us"
-title = "Instituto Thomas Moore"
+title = "Instituto Thomas More"
 theme = "meghna-hugo"
 
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
-    URL = "about"
+    name = "Quem somos"
+    URL = "quem-somos"
     weight = 2
 
     [[menu.nav]]
-    name = "Service"
-    URL = "services"
+    name = "Projectos"
+    URL = "projectos"
     weight = 3
 
-    [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
-    weight = 4
+#    [[menu.nav]]
+#    name = "Portfolio"
+#    URL = "portfolio"
+#    weight = 4
+
+#    [[menu.nav]]
+#    name = "Team"
+#    URL = "our-team"
+#    weight = 5
+
+#    [[menu.nav]]
+#    name = "Pricing"
+#    URL = "pricing"
+#    weight = 6
 
     [[menu.nav]]
-    name = "Team"
-    URL = "our-team"
-    weight = 5
-
-    [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
-    weight = 6
-
-    [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
+    name = "Notícias"
+    URL = "noticias"
     weight = 7
 
     [[menu.nav]]
-    name = "Contact"
-    URL = "contact-us"
+    name = "Contactos"
+    URL = "contactos"
     weight = 8
 
 # Site params
 [params]
-home= "Home"
+home= "Início"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
@@ -55,13 +55,14 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
+    bgImage = "images/slider/logo.jpg"
+#    bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "Instituto Thomas Moore"
-    content= "Este é o site novo do Instituto. O Instituto é novo. O Instituto tem um site novo."
+    heading = "Instituto Thomas More"
+    content= "Formação intelectual cristã para a juventude no mundo moderno, ou outra frase do género"
     btn = true
-    btnText="Explore Us"
-    btnURL="#services"
+    btnText="Curso Thomas More"
+    btnURL="#curso_thomas_more"
 
     # call to action
     [params.cta]

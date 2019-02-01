@@ -1,0 +1,9 @@
+enable = true
+bgImage = "images/backgrounds/bg-2.jpg"
+
+[[quemsomosItem]]
+name = "João Reis"
+image = "images/team/client-1.jpg"
+date = "Dec 26, 2018"
+content = "O Curso Thomas More é uma iniciativa promovida por um grupo de docentes universitários em parceria com os “Catholic Voices Portugal”, através da qual se pretende oferecer a jovens universitários católicos uma formação científica complementar, em áreas especialmente relevantes para a fundamentação integrada e madura da sua fé, como a filosofia, a ética ou a antropologia.\nSerão também abordados de forma científica e por profissionais de comunicação alguns dos principais temas discutidos na atualidade – como a eutanásia ou a procriação medicamente assistida -, para fornecer aos jovens universitários as ferramentas necessárias à participação nos debates da modernidade."
+
