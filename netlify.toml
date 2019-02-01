@@ -8,7 +8,7 @@
 [context.production.environment]
   HUGO_VERSION = "0.53"
   HUGO_ENV = "production"
-  HUGO_BASEURL = "https://thomasmoore.netlify.com/"
+  HUGO_BASEURL = "https://thomasmore.netlify.com/"
   HUGO_ENABLEGITINFO = "true"
 
 # The Deploy Preview Context applies to every Deploy Preview you create: 
@@ -29,5 +29,5 @@
 
 # Besides these three predefined contexts, you can also use branch names as context names:
 [context.preview.environment]
-  HUGO_BASEURL = "https://thomasmoore.netlify.com/"
+  HUGO_BASEURL = "https://thomasmore.netlify.com/"
   HUGO_ENABLEGITINFO = "true"
