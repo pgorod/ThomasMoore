@@ -1,1 +1,33 @@
+body {
+  background-color: #fff;
+  color: #222;
+}
 
+
+.bg-one {
+    background-color: #fff;
+}
+
+.title h2 {
+    color:#000;
+}
+
+.title h2 span {
+    color: darkred;
+}
+
+.border::before {
+    background-color: darkred;
+}
+
+.about .block {
+    background: #fff;
+}
+
+.section-bg {
+    background: #fff;
+}
+
+.post-block {
+    background-color: #fff;
+}
