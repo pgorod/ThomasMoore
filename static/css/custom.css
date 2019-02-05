@@ -23,7 +23,7 @@ body {
 .about .block {
     background: #fff;
 }
-
+.about .block:hover { border-bottom: 2px solid darkred; }
 .section-bg {
     background: #fff;
 }
@@ -35,3 +35,11 @@ body {
 h1, h2, h3, h4, h5, h6 {
     color: darkred;
 }
+
+.btn-main:hover {
+    background: red;
+}
+
+.btn-main { background: darkred; }
+.btn-transparent, .btn-transparent { background-color: darkred; }
+.btn-transparent:hover, .btn-transparent:focus { background-color: red; }
