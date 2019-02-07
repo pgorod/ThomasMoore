@@ -1,45 +1,38 @@
-body {
-  background-color: #fff;
-  color: #222; 
-}
+body { background-color: white; color: #222; }
 
+.navigation { background-color: darkred; }
+.navigation .navigation-menu li.active a { color: white; }
+.navigation .navigation-menu li a:hover, .navigation .navigation-menu li a:focus { color: white;}
+.navigation .navigation-menu li a { color: #ccc;}
 
-.bg-one {
-    background-color: #fff;
-}
+.hero-area::before { background: rgba(0, 0, 0, 0.4); }
+.testimonial::before { background: rgba(42, 48, 55, 0.16); }
+.client-info { width: 66%; background: rgba(33, 33, 33, 0.42); padding: 30px; }
+.client-meta h3 { color: red; }
+.client-comment p { color: white; }
+.bg-one { background-color: #fff; }
 
-.title h2 {
-    color:#000;
-}
+.title h2 { color:#000; }
+.title h2 span { color: darkred; }
+.color { color: darkred; }
 
-.title h2 span {
-    color: darkred;
-}
+.border::before { background-color: darkred; }
 
-.border::before {
-    background-color: darkred;
-}
-
-.about .block {
-    background: #fff;
-}
+.about .block { background: white; }
 .about .block:hover { border-bottom: 2px solid darkred; }
-.section-bg {
-    background: #fff;
-}
+.section-bg { background: white; }
 
-.post-block {
-    background-color: #fff;
-}
+.post-block { background-color: white; }
 
-h1, h2, h3, h4, h5, h6 {
-    color: darkred;
-}
+h1, h2, h3, h4, h5, h6 { color: darkred; }
 
-.btn-main:hover {
-    background: red;
-}
+.btn-main:hover { background: red; }
 
 .btn-main { background: darkred; }
 .btn-transparent, .btn-transparent { background-color: darkred; }
 .btn-transparent:hover, .btn-transparent:focus { background-color: red; }
+
+.social-icon ul li a { background-color: white; }
+.social-icon ul li:hover a { background-color: darkred; }
+
+.sk-cube-grid .sk-cube { background-color: darkred; }

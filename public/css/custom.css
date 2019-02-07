@@ -1,4 +1,43 @@
-html {
-  background-color: #ffffff;
-  color: #737f8a;
+body {
+  background-color: #fff;
+  color: #222; 
 }
+
+.navigation { background-color: darkred; }
+.navigation .navigation-menu li.active a { color: white; }
+.navigation .navigation-menu li a:hover, .navigation .navigation-menu li a:focus { color: white;}
+.navigation .navigation-menu li a { color: #ccc;}
+
+.bg-one { background-color: #fff; }
+
+.title h2 { color:#000; }
+.title h2 span { color: darkred; }
+.color { color: darkred; }
+
+.border::before {
+    background-color: darkred;
+}
+
+.about .block {
+    background: #fff;
+}
+.about .block:hover { border-bottom: 2px solid darkred; }
+.section-bg {
+    background: #fff;
+}
+
+.post-block {
+    background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: darkred;
+}
+
+.btn-main:hover {
+    background: red;
+}
+
+.btn-main { background: darkred; }
+.btn-transparent, .btn-transparent { background-color: darkred; }
+.btn-transparent:hover, .btn-transparent:focus { background-color: red; }

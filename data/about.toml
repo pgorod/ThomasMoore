@@ -1,6 +1,6 @@
 enable = true
-heading = "Projectos"
-headingSpan = ""
+heading = "Os nossos"
+headingSpan = "Projectos"
 
 [[aboutItem]]
 icon = "tf-tools"
