@@ -15,6 +15,8 @@ body { background-color: white; color: #222; }
 .title h2 { color:#000; }
 .title h2 span { color: darkred; }
 .color { color: darkred; }
+a { color: darkred; }
+a:focus, a:hover { color: red; }
 
 .border::before { background-color: darkred; }
 
@@ -36,3 +38,5 @@ h1, h2, h3, h4, h5, h6 { color: darkred; }
 .social-icon ul li:hover a { background-color: darkred; }
 
 .sk-cube-grid .sk-cube { background-color: darkred; }
+
+.copyright { color: gray; }
