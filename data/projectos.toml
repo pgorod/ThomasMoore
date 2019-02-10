@@ -2,18 +2,18 @@ enable = true
 heading = "Os nossos"
 headingSpan = "Projectos"
 
-[[aboutItem]]
+[[projectosItem]]
 icon = "tf-tools"
-title = "Spring Seminar"
-content = "O Curso Thomas More é uma ini através da qual se pretende oferecer a jovens universitários católicos uma formação científica complementar, em áreas especialmente relevantes para a fundamentação integrada e madura da sua fé, como a filosofia, a ética ou a antropologia.\nSerão também abordados de forma científica e por profissionais de comunicação alguns dos principais temas discutidos na atualidade – como a eutanásia ou a procriação medicamente assistida -, para fornecer aos jovens universitários as ferramentas necessárias à participação nos debates da modernidade."
+title = "Seminário de Inverno"
+content = "O primeiro “Seminário de Inverno” vai decorrer nos próximo dias 9 e 10 de Março (2019) e tem como tema “Mestres da Técnica, Ignorantes na Fé”. Serão dois dias de intensa formação num antigo convento em Sintra e contará com a presença de 8 distintos oradores que abordarão vários tópicos interessantes para qualquer jovem universitário ou jovem profissional católico."
 
-[[aboutItem]]
+[[projectosItem]]
 icon = "tf-strategy"
 title = "Curso Thomas More"
 content = "O Curso Thomas More é uma iniciativa promovida por um grupo de docentes universitários em parceria com os Catholic Voices Portugal através da qual se pretende oferecer a jovens universitários católicos uma formação científica complementar, em áreas especialmente relevantes para a fundamentação integrada e madura da sua fé, como a filosofia, a ética ou a antropologia.\nSerão também abordados de forma científica e por profissionais de comunicação alguns dos principais temas discutidos na atualidade – como a eutanásia ou a procriação medicamente assistida -, para fornecer aos jovens universitários as ferramentas necessárias à participação nos debates da modernidade."
 
-[[aboutItem]]
+[[projectosItem]]
 icon = "tf-anchor2"
-title = "Summer Course"
-content = "O Curso Thomas More é uma iniciativa promovida por um grupo de docentes universitários em parceria com os Catholic Voices Portugal, através da qual se pretende oferecer a jovens universitários católicos uma formação científica complementar, em áreas especialmente relevantes para a fundamentação integrada e madura da sua fé, como a filosofia, a ética ou a antropologia.\nSerão também abordados de forma científica e por profissionais de comunicação alguns dos principais temas discutidos na atualidade – como a eutanásia ou a procriação medicamente assistida -, para fornecer aos jovens universitários as ferramentas necessárias à participação nos debates da modernidade."
+title = "Mais Thomas More"
+content = "O “Mais Thomas More” é mais uma iniciativa promovida pelo Instituto Thomas More, que através de Conferências, Seminários e Cursos de Verão pretende oferecer a jovens universitários e jovens profissionais católicos uma formação científica complementar a uma formação espiritual e doutrinal que estes possam receber noutras instituições da Igreja Católica."
 

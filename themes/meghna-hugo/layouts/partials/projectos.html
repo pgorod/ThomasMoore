@@ -1,16 +1,16 @@
-{{ if .Site.Data.about.enable}}
+{{ if .Site.Data.projectos.enable}}
 {{"<!-- Start About Section -->" | safeHTML}}
 <section class="bg-one about section" id="projectos">
     <div class="container">
         <div class="row">
             {{"<!-- section title -->" | safeHTML}}
             <div class="title text-center wow fadeIn" data-wow-duration="1500ms">
-                <h2>{{ .Site.Data.about.heading}} <span class="color">{{ .Site.Data.about.headingSpan}}</span> </h2>
+                <h2>{{ .Site.Data.projectos.heading}} <span class="color">{{ .Site.Data.projectos.headingSpan}}</span> </h2>
                 <div class="border"></div>
             </div>
             {{"<!-- /section title -->" | safeHTML}}
 
-            {{ range .Site.Data.about.aboutItem }}
+            {{ range .Site.Data.projectos.projectosItem }}
             {{"<!-- About item -->" | safeHTML}}
             <div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms">
                 <div class="block">
