@@ -43,7 +43,7 @@ theme = "meghna-hugo"
 # Site params
 [params]
 home= "Início"
-logo = "images/logo.png"
+logo = "images/EscudoCTM-small.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Airspace Hugo theme"

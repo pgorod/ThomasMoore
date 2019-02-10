@@ -10,7 +10,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="generator" content="Hugo 0.53" />
 		
-        <title> Categories </title>
+        <title> outra </title>
 		
 		<!-- Favicon -->
 		<link rel="shortcut icon" type="image/x-icon" href="http://thomasmore.netlify.com/images/favicon.ico"/>
@@ -54,7 +54,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="generator" content="Hugo 0.53" />
 		
-        <title> Categories </title>
+        <title> outra </title>
 		
 		<!-- Favicon -->
 		<link rel="shortcut icon" type="image/x-icon" href="http://thomasmore.netlify.com/images/favicon.ico"/>
@@ -127,18 +127,56 @@
 </header>
 <!-- End Fixed Navigation -->
 
-<!-- Start Blog Section -->
-<section id="blog" class="section">
+<section class="section">
     <div class="container">
         <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-center">
+                <h1>outra</h1>
+                <ul class="list-inline mb-50">
+                    <li class="list-inline-item"></li>
+                    <li class="list-inline-item">Monday, Jan 1, 0001</li>
+                </ul>
+                <img class="img-fluid mb-50" src="http://thomasmore.netlify.com/" alt="blog-image">
+            </div>
+            <div class="col-md-8 col-md-offset-2">
+                <div class="post-single-content">
+                    
+{{ define "main" }}
 
-            <div class="clearfix">
-                
+    {{ partial "header.html" . }}
+        
+    {{ partial "preloader.html" . }}
+            
+    {{ partial "hero-area.html" . }}
+
+    {{ partial "navigation.html" . }}
+
+    {{ partial "quem-somos.html" . }}
+
+    {{ partial "projectos.html" . }}
+
+    {{ partial "blog.html" . }}
+
+    {{ partial "contact.html" . }}
+        
+{{/*  DESACTIVADOS:
+    {{ partial "service.html" . }}
+    {{ partial "cta.html" . }}
+    {{ partial "skill.html" . }}
+    {{ partial "portfolio.html" . }}
+    {{ partial "counter.html" . }}
+    {{ partial "team.html" . }}
+    {{ partial "pricing.html" . }}
+*/}}
+            
+
+{{ end }}
+
+                </div>
             </div>
         </div>
     </div>
 </section>
-<!-- /blog -->
 
 
     </div><!-- end Contact Area -->

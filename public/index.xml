@@ -41,5 +41,24 @@ Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus 
 Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
     </item>
     
+    <item>
+      <title>outra</title>
+      <link>http://thomasmore.netlify.com/outra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomasmore.netlify.com/outra/</guid>
+      <description>{{ define &#34;main&#34; }}
+
+    {{ partial &#34;header.html&#34; . }}
+        
+    {{ partial &#34;preloader.html&#34; . }}
+            
+    {{ partial &#34;hero-area.html&#34; . }}
+
+    {{ partial &#34;navigation.html&#34; . }}
+
+    {{ partial &#34;</description>
+    </item>
+    
   </channel>
 </rss>
