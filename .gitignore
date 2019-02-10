@@ -1,0 +1,26 @@
+
+# hugo destination build
+public/
+
+# Microsoft Visual Studio exclusions
+*.sln
+*.suo
+*.phpproj
+
+# IntelliJ
+.idea/
+
+# npm
+node_modules/
+
+# macOS
+.DS_Store
+
+
+/nbproject/
+
+/tmp/
+
+
+
+
