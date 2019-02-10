@@ -9,12 +9,14 @@ body { background-color: white; color: #222; }
 .hero-area::before { background: rgba(0, 0, 0, 0.4); }
 .testimonial::before { background: rgba(42, 48, 55, 0.16); }
 .client-info { width: 66%; background: rgba(33, 33, 33, 0.42); padding: 30px; }
-.client-meta h3 { color: red; }
+.client-meta h3 { background: rgba(233, 233, 233, 0.42); color: black; border-radius:7px; margin: 3% 32%; }
+.client-meta span { font-size: 24px; }
 .client-comment p { color: white; }
 .bg-one { background-color: #fff; }
 
 .title h2 { color:#000; }
 .title h2 span { color: darkred; }
+
 .color { color: darkred; }
 a { color: darkred; }
 a:focus, a:hover { color: red; }

@@ -18,8 +18,8 @@
                         {{"<!-- client info -->" | safeHTML}}
                         <div class="client-info">
                             <div class="client-meta">
-                                <h3>{{ .name }}</h3>
-                                <span>{{ .date }}</span>
+                                <h3>{{ .name }} <span class="color">{{ .nameSpan }}</span></h3>
+                                <!-- <span>{{ .date }}</span> -->
                             </div>
                             <div class="client-comment">
                                 <p>{{ .content }}</p>
