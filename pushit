@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 # this script asks for a commit message, adds everything changed to the commit, and immediately pushes to remote:
 read -p "Commit description: " desc
