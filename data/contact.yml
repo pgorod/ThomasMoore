@@ -4,8 +4,9 @@ headingSpan : Contactos
 title : Contact Details
 content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
 enable_maps : true
-mapLatitude : 38.756654
-mapLongitude: -9.1541506
+mapLatitude : 38.756653979592556
+mapLongitude: -9.154150584653804
+mapLink: https://goo.gl/maps/Ur2XRvHLHsu
 contactDetails :
   - icon : tf-map-pin
     info : "Campo Grande, 312, 1700-162 Lisboa"

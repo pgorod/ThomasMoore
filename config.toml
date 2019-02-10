@@ -111,3 +111,7 @@ custom_css = ["css/custom.css"]
         icon = "tf-ion-social-youtube"
         url = "https://www.youtube.com/channel/UCSN1VJMaw7A5cL32wqL542w"
         
+        [[params.footer.socialIcon]]
+        icon = "tf-map2"
+        url = "https://goo.gl/maps/Ur2XRvHLHsu"
+        

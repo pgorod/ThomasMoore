@@ -67,8 +67,10 @@
     {{ if .Site.Data.contact.enable_maps }}
     {{"<!-- Google Map -->" | safeHTML}}
     <div class="google-map">
+      <a href="{{ .Site.Data.contact.mapLink }}" target="_blank">  
         <div id="map-canvas" {{ with .Site.Data.contact.mapLatitude }} data-latitude="{{ . }}" {{ end }} 
         {{ with .Site.Data.contact.mapLongitude }} data-longitude="{{ . }}" {{ end }}></div>
+      </a>
     </div>
     {{ end }}
 

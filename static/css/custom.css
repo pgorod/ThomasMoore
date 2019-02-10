@@ -4,6 +4,7 @@ body { background-color: white; color: #222; }
 .navigation .navigation-menu li.active a { color: white; }
 .navigation .navigation-menu li a:hover, .navigation .navigation-menu li a:focus { color: white;}
 .navigation .navigation-menu li a { color: #ccc;}
+.navbar { border-radius: 0px; }
 
 .hero-area::before { background: rgba(0, 0, 0, 0.4); }
 .testimonial::before { background: rgba(42, 48, 55, 0.16); }
