@@ -8,7 +8,7 @@
 [context.production.environment]
   HUGO_VERSION = "0.53"
   HUGO_ENV = "production"
-  HUGO_BASEURL = "https://thomasmore.netlify.com/"
+  HUGO_BASEURL = "https://institutothomasmore.pt/"
   HUGO_ENABLEGITINFO = "true"
 
 # The Deploy Preview Context applies to every Deploy Preview you create: 
