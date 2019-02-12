@@ -2,7 +2,7 @@
 title: "Site “Mais Thomas More” já está online!"
 date: 2019-02-01T14:39:16+06:00
 author: João Reis
-image: images/blog/blog-post-2.jpg
+image: images/blog/Noticia-maisTM.jpg
 description : ""
 ---
 

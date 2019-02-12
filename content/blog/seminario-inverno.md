@@ -2,7 +2,7 @@
 title: "Abertas as inscrições para o Seminário de Inverno!"
 date: 2019-01-12T14:51:12+06:00
 author: João Reis
-image: images/blog/blog-post-3.jpg
+image: images/blog/IconeMaisTM.jpg
 description : ""
 ---
 

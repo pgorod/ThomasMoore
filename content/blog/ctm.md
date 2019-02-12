@@ -1,7 +1,7 @@
 ---
 title: "Abertas candidaturas à 6ª Edição do Curso Thomas More!"
 date: 2019-01-22T12:52:36+06:00
-image: images/blog/blog-post-1.jpg
+image: images/blog/NoticiaCTM.jpg
 author: João Reis
 description : ""
 ---
