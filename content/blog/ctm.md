@@ -6,7 +6,6 @@ author: João Reis
 description : ""
 ---
 
-O [Curso Thomas More](http://cursothomasmore.pt/) é uma iniciativa promovida por um grupo de docentes universitários em 
-parceria com os “Catholic Voices Portugal”, através da qual se pretende oferecer a jovens 
+O [Curso Thomas More](http://cursothomasmore.pt/) é uma iniciativa promovida maioritariamente por um grupo de docentes e investigadores universitários, através da qual se pretende oferecer a jovens 
 universitários católicos uma formação científica complementar, em áreas especialmente 
 relevantes para a fundamentação integrada e madura da sua fé, como a filosofia, a ética ou a antropologia.
