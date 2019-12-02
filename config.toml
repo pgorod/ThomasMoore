@@ -1,4 +1,4 @@
-baseURL = "http://institutothomasmore.pt/"
+baseURL = "https://institutothomasmore.pt/"
 languageCode = "en-us"
 title = "Instituto Thomas More"
 theme = "meghna-hugo"
