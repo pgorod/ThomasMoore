@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Meghna | Responsive Multipurpose Parallax HTML5 Template"
 theme = "meghna-hugo"
@@ -98,7 +98,7 @@ custom_css = ["css/custom.css"]
     # footer
     [params.footer]
         copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyrightURL = "https://www.themefisher.com"
 
         # social Icons
         [[params.footer.socialIcon]]
